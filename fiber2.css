@@ -1,0 +1,61 @@
+*{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
+nav a, .order-2 h1, .bold{font-weight: bold;}
+.nav-link{color: #000 !important; font-weight: 100;}
+.nav-link:hover{color: #1EB2A6 !important; font-weight: 100;}
+.btn-purple{background-color: #1EB2A6 !important;}
+.text-purple{color: #1EB2A6 !important;}
+.bg-cyan{background-color: #A3C7CD;}
+.cunt-3 h6, .cunt-3 h2{font-weight: bold;}
+.round{border-radius: 10px;}
+.purple_div h2{font-weight: bold;}
+.order-2 h1{font-size: 48px;}
+.page_end{background-color: #FBF8F3;}
+.vh100{height: 100vh;}
+.bg-back{background-color: #ADCED3;}
+.media{
+    color: #1EB2A6;
+    
+}
+.top-icon{
+    font-size: 38px;
+    color: white;
+}
+.icon{
+    width: 60px;
+    font-size: 30px;
+    color: #1EB2A6;
+}
+.link {
+    font-weight: 700;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 0.3125rem;
+    padding: 1.125rem 2rem;
+    text-align: center;
+    transition: all 0.3s ease;
+    background: #1EB2A6 !important;
+    color: #FFFFFF !important;
+}
+.text-decor{
+    text-decoration: underline;
+    color: #1EB2A6 !important;
+    font-weight: bold;
+
+}
+.thumbnail{
+    border: 1px solid #DFDFDF;
+    border-radius: 10px;
+}
+.thumbnail-btn .btn{
+   width: 100%;
+   font-weight: bold;
+   font-size: 18px;
+}
+.carousel-indicators li{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+}
